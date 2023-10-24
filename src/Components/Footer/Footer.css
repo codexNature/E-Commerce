@@ -11,9 +11,19 @@
   gap: 20px;
 }
 .footer-logo p{
-  color: #383838;
-  font-size: 46px;
-  font-weight: 700;
+  color: #171717;
+  font-size: 1.8rem;
+  font-weight: 600;
+  color: #FF4141;
+  font-family: 'Merienda', cursive;
+  font-family: 'Poppins', sans-serif;
+}
+.footer-logo p span {
+  color: orange;
+  font-size: 1.5rem;
+  font-weight: 600;
+  font-family: 'Merienda', cursive;
+  font-family: 'Poppins', sans-serif;
 }
 .footer-links {
   display: flex;

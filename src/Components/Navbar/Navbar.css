@@ -3,6 +3,7 @@
   justify-content: space-around;
   padding: 16px;
   box-shadow: 0 1px 3px -2px black;
+  width: 100vw
 }
 
 .nav-logo{
@@ -12,8 +13,24 @@
 }
 .nav-logo p{
   color: #171717;
-  font-size: 38px;
+  font-size: 1.5rem;
   font-weight: 600;
+  color: #FF4141;
+  font-family: 'Merienda', cursive;
+  font-family: 'Poppins', sans-serif;
+}
+.nav-logo p span{
+    color: orange;
+    font-size: 1.5rem;
+    font-weight: 600;
+    font-family: 'Merienda', cursive;
+    font-family: 'Poppins', sans-serif;
+  }
+
+.nav-name{
+  text-decoration: none;
+  font-family: 'Merienda', cursive;
+  font-family: 'Poppins', sans-serif;
 }
 .nav-menu{
   display: flex;
